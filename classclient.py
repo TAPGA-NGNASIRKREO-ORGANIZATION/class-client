@@ -1,5 +1,6 @@
 # ADJIT ABDRAMANE
-18B 339 FS
+18 B 339 FS
+
 class Client:
 	def __init__(self,id,nom,age,solde):
 		self.id=id
